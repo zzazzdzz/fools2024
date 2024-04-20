@@ -11,7 +11,7 @@ I got this Pokémon Crystal save file from a friend, but it's really strange. So
 
 # Hacking Challenge III - gbhttp
 
-The GBZ80 architecture is truly amazing - so amazing that we've created a Game Boy HTTP server! It's (no longer) running at [http://fools2024.online:26273/](http://fools2024.online:26273/). However, we haven't done a proper security audit of our code yet. Think you can steal the secret password from our test server? The *source code* (`assets/gbhttp.asm`) is available for you to review. 
+The GBZ80 architecture is truly amazing - so amazing that we've created a Game Boy HTTP server! It's (no longer) running at [http://fools2024.online:26273/](http://fools2024.online:26273/). However, we haven't done a proper security audit of our code yet. Think you can steal the secret password from our test server? The *source code* (`files/gbhttp.asm`) is available for you to review. 
 
 # Hacking Challenge IV - Pokémon Write-What-Where Version (Emerald)
 
