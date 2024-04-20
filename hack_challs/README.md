@@ -1,19 +1,19 @@
-* Hacking Challenge I - Hall of Fame Data Recovery (Red/Blue)
+# Hacking Challenge I - Hall of Fame Data Recovery (Red/Blue)
 
 B1F is a truly amazing item. I used it to keep a small ACE payload which reminded me of my super secret password. But I encountered Missingno. in battle, and my payload got destroyed!  
 Think it's still possible to recover it? Here's *the save file I got after the incident* (`files/rest_in_miss_forever_ingno.sav`).
 
-* Hacking Challenge II - The Sus-file (Crystal)
+# Hacking Challenge II - The Sus-file (Crystal)
 
 I got this Pokémon Crystal save file from a friend, but it's really strange. Sometimes weird colored artifacts appear on the screen, and sometimes the game just straight up crashes. I'm sure there's something hidden in it. Maybe you'll be able to figure it out? *Here's the save file I got* (`files/suspicious.sav`).
 
 *(Note, the file includes the plaintext flag, and this is absolutely not intended. Actually, things kinda went wrong with all four challenges, and they all ended up having unintended "easy" solutions. More information in the wrap-up video :>)*
 
-* Hacking Challenge III - gbhttp
+# Hacking Challenge III - gbhttp
 
 The GBZ80 architecture is truly amazing - so amazing that we've created a Game Boy HTTP server! It's (no longer) running at [http://fools2024.online:26273/](http://fools2024.online:26273/). However, we haven't done a proper security audit of our code yet. Think you can steal the secret password from our test server? The *source code* (`assets/gbhttp.asm`) is available for you to review. 
 
-* Hacking Challenge IV - Pokémon Write-What-Where Version (Emerald)
+# Hacking Challenge IV - Pokémon Write-What-Where Version (Emerald)
 
 I love playing Pokémon Emerald! The buttons on my GBA are really worn off, and they don't work anymore... but who needs buttons when I have a debugger and a steady hand? As long as you tell me which memory addresses I need to modify on which frames, I should be good to go!  
   
