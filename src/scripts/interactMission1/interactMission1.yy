@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"interactMission1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"interactMission1",
+  "parent":{
+    "name":"Interactions",
+    "path":"folders/Scripts/Interactions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

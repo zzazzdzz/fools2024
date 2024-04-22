@@ -1,0 +1,9 @@
+Fools2024 (TheZZAZZGlitch's April Fools Event 2024) is a non-profit fan-based project created for the Pokémon glitching and hacking community. This application is the main client for the event's Fight Simulation Program, and it can be used regardless of the server's availability.
+
+For more information and further instructions, visit:
+https://zzazzdzz.github.io/fools2024
+https://fools2024.online
+
+This client may connect to the event's online leaderboard - however, progress will be uploaded only under your consent. By connecting to the leaderboard services, you agree with their registration terms, as well as storage and processing of your save data.
+
+The game might contain small traces of dogs.

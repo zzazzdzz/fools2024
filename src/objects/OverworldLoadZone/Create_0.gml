@@ -1,0 +1,2 @@
+waitForTransition = false;
+transitionObj = noone;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"attack008WaterGun",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attack008WaterGun",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

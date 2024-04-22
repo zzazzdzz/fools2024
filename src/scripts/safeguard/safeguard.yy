@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeguard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeguard",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

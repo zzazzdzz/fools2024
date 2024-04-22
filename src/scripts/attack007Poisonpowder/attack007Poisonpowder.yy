@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"attack007Poisonpowder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attack007Poisonpowder",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

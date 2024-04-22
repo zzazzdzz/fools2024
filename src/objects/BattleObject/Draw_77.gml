@@ -1,0 +1,10 @@
+safeguardEnd("ch", curHP);
+safeguardEnd("mh", maxHP);
+safeguardEnd("a", att);
+safeguardEnd("d", def);
+safeguardEnd("sa", sp_att);
+safeguardEnd("sd", sp_def);
+safeguardEnd("cp", curPP);
+safeguardEnd("mp", maxPP);
+safeguardEndEach("mm", moves);
+safeguardEndEach("ef", effects);

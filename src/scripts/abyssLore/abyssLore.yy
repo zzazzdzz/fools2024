@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"abyssLore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"abyssLore",
+  "parent":{
+    "name":"DataBanks",
+    "path":"folders/Scripts/DataBanks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <!-- Custom PreHead code is injected here -->
+    
+
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name ="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta charset="utf-8"/>
+
+        <!-- Builtin injector for disabling cache -->
+        <meta http-equiv="pragma" content="no-cache"/>
+
+        <!-- Set the title bar of the page -->
+        <title>TheZZAZZGlitch's April Fools Event 2024</title>
+
+        <!-- Custom PreStyle code is injected here -->
+        
+
+        <!-- Set the background colour of the document -->
+        <style>
+            body {
+                background: black;
+                color: #cccccc;
+                margin: 0px;
+                padding: 0px;
+                border: 0px; overflow: hidden;
+            }
+
+            canvas {
+                image-rendering: optimizeSpeed;
+                -webkit-interpolation-mode: nearest-neighbor;
+                -ms-touch-action: none;
+                touch-action: none;
+                margin: 0px;
+                padding: 0px;
+                border: 0px; image-rendering: pixelated; border: 1px solid #ccc; /*width: 1280px;*/
+            }
+            :-webkit-full-screen #canvas {
+                width: 100%;
+                height: 100%;
+            }
+            :-webkit-full-screen {
+                width: 100%;
+                height: 100%;
+            }
+            
+            /* Custom Runner Styles */
+            div.gm4html5_div_class {
+                margin: 0px;
+                padding: 0px;
+                border: 0px;
+            }
+            div.gm4html5_login {
+                padding: 20px;
+                position: absolute;
+                border: solid 2px #000000;
+                background-color: #404040;
+                color:#00ff00;
+                border-radius: 15px;
+                box-shadow: #101010 20px 20px 40px;
+            }
+            div.gm4html5_cancel_button {
+                float: right;
+            }
+            div.gm4html5_login_button {
+                float: left;
+            }
+            div.gm4html5_login_header {
+                text-align: center;
+            }
+            /* END - Custom Runner Styles */
+            
+        </style>
+
+        <!-- Custom PostStyle code is injected here -->
+        
+
+        <!-- Builtin injector for injecting flurry analytics code -->
+        
+    </head>
+
+    <!-- Custom PostHead code is injected here -->
+    
+
+    <!-- Custom PreBody code is injected here -->
+    
+
+    <body>
+        <div class="gm4html5_div_class" id="gm4html5_div_id">
+            
+            <!-- Builtin injector for splash screen -->
+            
+
+            <!-- Create the canvas element the game draws to -->
+            <canvas id="canvas" width="640" height="480" style="position: absolute; top: 50%; left: 50%; bottom: -50%; right: -50%; transform: translate(-50%, -50%);">
+                <p>Your browser doesn't support HTML5 canvas.</p>
+            </canvas>
+        </div>
+
+        <!-- Run the game code -->
+        <script type="text/javascript" src="foolsonline/fools2024.js?cachebust=1854865626"></script>
+
+        <!-- Builtin injector for injecting runner path -->
+        
+
+        <script>
+			window.onload = GameMaker_Init;
+			
+			ak1Key = "";
+			ak2Key = "";
+			
+			setInterval(function() {
+				if (ak1Key.length && ak2Key.length) {
+					global[ak1Key] = "HM7JS5WI";
+					global[ak2Key] = "319b678a0b1fa0a2dddaee154c60e2e92c81b53ef92074ce3008ebefc49727aa";
+				} else {
+					try {
+						for (v in global) {
+							if (global[v] == "<!AK1>") ak1Key = v;
+							if (global[v] == "<!AK2>") ak2Key = v;
+						}
+					} catch(e) {}
+				}
+			}, 500);
+		</script>
+
+        <!-- Builtin injector for injecting google analytics code -->
+        
+
+    </body>
+
+    <!-- Custom PostBody code is injected here -->
+    
+</html>

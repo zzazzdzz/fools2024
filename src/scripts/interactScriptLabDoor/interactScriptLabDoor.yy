@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"interactScriptLabDoor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"interactScriptLabDoor",
+  "parent":{
+    "name":"Interactions",
+    "path":"folders/Scripts/Interactions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

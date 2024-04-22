@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"dungeonDataBanks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dungeonDataBanks",
+  "parent":{
+    "name":"DataBanks",
+    "path":"folders/Scripts/DataBanks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

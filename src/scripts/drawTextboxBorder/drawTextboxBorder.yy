@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"drawTextboxBorder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawTextboxBorder",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

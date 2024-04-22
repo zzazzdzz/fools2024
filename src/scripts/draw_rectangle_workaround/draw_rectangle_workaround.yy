@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_rectangle_workaround",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_rectangle_workaround",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

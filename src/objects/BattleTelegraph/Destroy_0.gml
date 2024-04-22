@@ -1,0 +1,2 @@
+
+//sprite_delete(spr);

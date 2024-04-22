@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ai004GD1Fight1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ai004GD1Fight1",
+  "parent":{
+    "name":"OpponentAI",
+    "path":"folders/Scripts/OpponentAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

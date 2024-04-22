@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ai008FogboundKeepFights",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ai008FogboundKeepFights",
+  "parent":{
+    "name":"OpponentAI",
+    "path":"folders/Scripts/OpponentAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

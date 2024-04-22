@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"updateDiscoveredDungeonTiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"updateDiscoveredDungeonTiles",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

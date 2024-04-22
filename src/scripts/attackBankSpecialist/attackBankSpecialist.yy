@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"attackBankSpecialist",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attackBankSpecialist",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

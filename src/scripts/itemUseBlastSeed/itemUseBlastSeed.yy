@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"itemUseBlastSeed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"itemUseBlastSeed",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Scripts/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

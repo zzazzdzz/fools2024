@@ -1,0 +1,1 @@
+if (animations) ds_queue_destroy(animations);

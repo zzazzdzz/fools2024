@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"aiBattleClear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"aiBattleClear",
+  "parent":{
+    "name":"OpponentAI",
+    "path":"folders/Scripts/OpponentAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

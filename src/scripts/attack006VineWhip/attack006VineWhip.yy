@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"attack006VineWhip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attack006VineWhip",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

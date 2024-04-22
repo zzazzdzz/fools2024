@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"crystalGlacierFights",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"crystalGlacierFights",
+  "parent":{
+    "name":"OpponentAI",
+    "path":"folders/Scripts/OpponentAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

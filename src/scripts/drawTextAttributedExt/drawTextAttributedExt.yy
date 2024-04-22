@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"drawTextAttributedExt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawTextAttributedExt",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

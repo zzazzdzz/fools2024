@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"itemUseMaxElixir",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"itemUseMaxElixir",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Scripts/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

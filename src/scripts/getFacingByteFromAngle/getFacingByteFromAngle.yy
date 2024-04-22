@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"getFacingByteFromAngle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getFacingByteFromAngle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

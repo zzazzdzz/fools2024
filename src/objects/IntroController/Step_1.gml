@@ -1,0 +1,1 @@
+if (global.recomputeBaseEncryptionHashKey != lastKh) global.recomputeBaseEncryptionHashKey = "";

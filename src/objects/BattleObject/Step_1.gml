@@ -1,0 +1,10 @@
+safeguardBegin("ch", curHP);
+safeguardBegin("mh", maxHP);
+safeguardBegin("a", att);
+safeguardBegin("d", def);
+safeguardBegin("sa", sp_att);
+safeguardBegin("sd", sp_def);
+safeguardBegin("cp", curPP);
+safeguardBegin("mp", maxPP);
+safeguardBeginEach("mm", moves);
+safeguardBeginEach("ef", effects);

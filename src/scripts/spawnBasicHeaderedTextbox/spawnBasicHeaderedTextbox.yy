@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawnBasicHeaderedTextbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawnBasicHeaderedTextbox",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

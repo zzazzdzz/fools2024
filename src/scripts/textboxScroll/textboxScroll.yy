@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"textboxScroll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textboxScroll",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

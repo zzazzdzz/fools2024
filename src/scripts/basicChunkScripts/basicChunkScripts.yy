@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"basicChunkScripts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"basicChunkScripts",
+  "parent":{
+    "name":"ChunkScripts",
+    "path":"folders/Scripts/ChunkScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

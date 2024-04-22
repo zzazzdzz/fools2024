@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"mysticGDLore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mysticGDLore",
+  "parent":{
+    "name":"DataBanks",
+    "path":"folders/Scripts/DataBanks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

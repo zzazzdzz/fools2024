@@ -1,0 +1,1 @@
+if (events) ds_queue_destroy(events);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawnSaveDetailsTextbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawnSaveDetailsTextbox",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

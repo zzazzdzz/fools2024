@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"keepGDLore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keepGDLore",
+  "parent":{
+    "name":"DataBanks",
+    "path":"folders/Scripts/DataBanks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

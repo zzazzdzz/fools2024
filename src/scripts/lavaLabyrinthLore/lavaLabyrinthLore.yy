@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"lavaLabyrinthLore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lavaLabyrinthLore",
+  "parent":{
+    "name":"DataBanks",
+    "path":"folders/Scripts/DataBanks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
